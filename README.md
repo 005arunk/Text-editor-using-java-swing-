@@ -1,13 +1,11 @@
 # Text-editor-using-java-swing-
 A simple text editor built using Java Swing. This text editor provides basic functionalities such as creating new files, opening existing files, saving files, and basic text manipulation. The project aims to demonstrate proficiency in Java GUI development, file I/O, and event handling.
 
-1. Set Up the Project
-IDE: Use an Integrated Development Environment (IDE) like IntelliJ IDEA, Eclipse, or NetBeans.
+1. Set Up the ProjectIDE: Use an Integrated Development Environment (IDE) like IntelliJ IDEA, Eclipse, or NetBeans.
 Create Project: Create a new Java project.
 Add Libraries: Ensure that the Java Swing library is included (it’s part of the standard Java Development Kit).
 
-2. Design the GUI
-Main Window: Create a JFrame for the main window.
+2. Design the GUI Main Window: Create a JFrame for the main window.
 Text Area: Add a JTextArea component where the text will be displayed and edited.
 Scroll Pane: Wrap the JTextArea in a JScrollPane to add scroll functionality.
 
